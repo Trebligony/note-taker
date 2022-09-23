@@ -53,4 +53,10 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 https://www.awesomescreenshot.com/video/11222800?key=dbb420efb8fc13c2f2b8fb6e88dc7e0f
 
 
+# App Github Deploy Link
+
+https://trebligony.github.io/note-taker/
+
 # App Heroku Deploy Link
+
+https://good-note-taker-app.herokuapp.com/notes
